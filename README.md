@@ -1,6 +1,6 @@
 # cloud-computing-basics-
 Exploring AWS EC2 pricing variations across regions using the AWS Pricing Calculator
-#Steps Taken
+# Steps Taken
 1. Created an AWS Free Tier Account
 2. Accessed AWS Pricing Calculator
 3. Selected Amazon EC2 as the service for comparison
